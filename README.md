@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This Code Ocean capsule and the associated ESRI File Geodatabase contain the code, workflows, and post-processed geospatial datasets developed for the study:
+This Code and the associated ESRI File Geodatabase contain the code, workflows, and post-processed geospatial datasets developed for the study:
 
 **Northward Expansion of High-Stature Vegetation Reveals Net Surface-Cooling Feedbacks in the Majority of Canadian Boreal–Tundra Ecozones**
 
