@@ -1,4 +1,4 @@
-# Boreal-Tundra-Vegetation-Increase-Effect-Cooling-and-Warming-Trends
+# Boreal Tundra Vegetation Increase Effects on Surface Cooling and Warming Tendencies
 
 
 ## Introduction
