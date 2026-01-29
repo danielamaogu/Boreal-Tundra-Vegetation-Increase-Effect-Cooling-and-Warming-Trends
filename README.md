@@ -14,8 +14,7 @@ This Code and the associated ESRI File Geodatabase contain the code, workflows, 
 
 All raster and gridded GeoTIFF datasets produced as **final outputs of this research**, and post-processed in **Google Earth Engine** and **ArcGIS Pro**, are stored in a single ESRI File Geodatabase (**Amaogu_et_al.gdb**). This geodatabase contains the complete set of vegetation, land-cover, NDVI, and surface energy flux trend products used in the analyses and figures presented in the manuscript.
 
-The geodatabase is fully readable in **ESRI Geodatabase format**, can be opened directly in **ArcGIS Pro**, and can be downloaded from the following link:  
-https://drive.google.com/file/d/1m7XNTTHN9X5HuFTkfKJBap4l30jRM0N4/view?usp=sharing
+The geodatabase is fully readable in **ESRI Geodatabase format**, can be opened directly in **ArcGIS Pro**, and can be downloaded from the following link: https://drive.google.com/file/d/1KmC9abto8oHarJa4XBM-xhv6DQfTquVd/view?usp=drive_link
 
 ---
 
